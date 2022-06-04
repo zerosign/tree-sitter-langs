@@ -131,6 +131,7 @@ See `tree-sitter-langs-repos'."
                 (ruby-mode       . ruby)
                 (rust-mode       . rust)
                 (rustic-mode     . rust)
+					 (wgsl-mode       . wgsl)
 					 (tla-mode        . tlaplus)
                 (scala-mode      . scala)
                 (swift-mode      . swift)
