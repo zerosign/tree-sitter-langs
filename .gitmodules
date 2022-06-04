@@ -209,3 +209,7 @@
 	path = repos/tlaplus
 	url = https://github.com/tlaplus-community/tree-sitter-tlaplus
 	branch = main
+[submodule "repos/wgsl"]
+	path = repos/wgsl
+	url = https://github.com/szebniok/tree-sitter-wgsl
+	branch = master
